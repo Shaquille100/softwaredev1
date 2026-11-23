@@ -1,3 +1,4 @@
+package week10;
 import java.util.Scanner;
 public class EvenOdd {
     public static void main(String[] args) {

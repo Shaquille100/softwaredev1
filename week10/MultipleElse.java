@@ -1,3 +1,4 @@
+package week10;
 import java.util.Scanner;
 public class MultipleElse {
     public static void main(String[] args) {
